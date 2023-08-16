@@ -1,0 +1,97 @@
+.ghg {
+    top: 0px;
+    background: rgb(58, 58, 58);
+    width: 16rem;
+    height: 40rem;
+    position: absolute;
+    right: 9.75rem;
+    bottom: 14rem;
+    border-bottom-right-radius: 10px ;
+    border-bottom-left-radius: 10px ;
+
+}
+
+.registrLine {
+    display: flex;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.img {
+    width: 2rem;
+    height: 2rem;
+    transform: translateX(7rem);
+}
+
+.name {
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+}
+
+.account {
+    color: rgb(96, 96, 96);
+    font-size: 13px;
+}
+
+.indent-Content {
+    margin-top: 12px;
+}
+
+.invitation-Content {
+    background: nane;
+    
+}
+
+.invitation-Content :hover {
+    transition-delay: 0.1s;
+    background: rgb(0, 0, 0);
+}
+
+.invitation-ico {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.invitation-icon {
+    margin-left: 1rem;
+    
+   }
+
+.bands {
+    display: block;
+}
+
+.invitation-text {
+    margin-left: 5px;
+    color: azure;
+}
+.retreat{
+    height: 1px;
+}
+
+.strip {
+    margin-top: 14px;
+    background: rgb(137, 137, 137);
+    height: 1.5px;
+}
+
+.text-i {
+
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.left-comp {
+    margin-left: 1rem;
+}
+
+.bands {
+    background: nane;
+}
+
+.bands :hover {
+    transition-delay: 0.1s;
+    background: rgb(0, 0, 0);
+}

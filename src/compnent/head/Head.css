@@ -1,0 +1,30 @@
+.kino{
+   width: 12rem;
+   height: 35px;
+}
+.unification{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+  
+}
+.left{
+   margin-left: 1.5rem;
+   cursor: pointer;
+}
+
+.three-stripes{
+   color: rgb(255, 255, 255);
+  
+}
+.fixed {
+   position: fixed;
+   top: 0;
+ }
+@media screen and (max-width: 10000px){
+   .three-stripes{
+      width: 0px;
+     
+   }
+}
+

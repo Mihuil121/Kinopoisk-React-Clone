@@ -1,0 +1,19 @@
+.ball {
+  width: 1.5rem;
+  
+}
+
+.text-RPL {
+  margin-left: 12px;
+  color: white;
+}
+
+.RPL-ball-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.RPL-ball-flex:hover .text-RPL {
+  color: rgb(189, 189, 189);
+}

@@ -1,0 +1,39 @@
+.general {
+    background-color: rgb(46, 46, 46);
+    position: absolute;
+    height: 100%;
+
+}
+
+.whitespace {
+    margin: 1rem 0;
+}
+
+
+.picture-text {
+    display: flex;
+    align-items: center;
+    margin: 0 2rem;
+}
+
+
+.text {
+    text-align: center;
+    margin: 0.5rem 0.5rem;
+    color: white;
+}
+
+.color {
+    color: white;
+}
+.the-main-text-only{
+    text-shadow: -2px -2px 0 #000,  
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000;
+}
+.bottom-underscores{
+    border-bottom:  0.2rem solid orangered ;
+
+}
+ 

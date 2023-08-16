@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.flex :hover{
+    color: rgb(189, 189, 189);
+}
+
+.Onlain{
+   	width: 0;
+	height: 0;
+    border-top: 10px solid transparent;
+    border-left: 15px solid rgb(242, 242, 242);
+    border-bottom: 10px solid transparent;
+}
+.Onlain-text{
+    color: rgb(255, 255, 255);
+    margin-left: 12px;
+   
+}

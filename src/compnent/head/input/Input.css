@@ -1,0 +1,28 @@
+.InputDiv {
+    background: #373737;
+    border-radius: 5px;
+    position: relative;
+    justify-content: center;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    width: 14.5rem;
+}
+
+.Input {
+    background: none;
+    border: none;
+    flex-grow: 1;
+    color: #afafaf;
+    outline: none;
+}
+
+.icons {
+    margin-left: auto;
+}
+
+.icon {
+    width: 1em;
+    margin: 0 0.1rem;
+    aspect-ratio: 1 1;
+}

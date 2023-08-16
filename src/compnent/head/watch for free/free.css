@@ -1,0 +1,17 @@
+.free {
+    display: flex;
+    background: linear-gradient(90deg, #ff5c4d, #eb469f 26.56%, #8341ef 75%, #3f68f9);
+    height: 2rem;
+    border-radius: 5rem;
+    width: 15rem;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.5s;
+}
+
+.free-text {
+    color: azure;
+    text-align: center;
+    align-items: center;
+   
+}

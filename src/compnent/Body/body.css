@@ -1,0 +1,68 @@
+
+.imgs {
+    height: 50vh;
+    width: 56rem;
+    background-image: linear-gradient(to right, black 14rem, transparent), url('../head/img/imgsr.jpg');
+    filter: brightness(2);
+    
+
+}
+.in{
+    margin: 2rem;
+    
+}
+
+.biblio {
+    width: 25rem;
+    filter: brightness(0.5);
+   margin: 1rem 0;
+}
+
+.wit {
+    display: flex;
+    align-items: center;
+}
+
+.with {
+    color: rgb(212, 212, 212);
+    font-size: 12px;
+}
+
+.al{
+    margin: -2rem;
+}
+.see-text{
+    color:#f50;
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
+}
+.Look{
+    display: flex;
+    align-items: center;
+}
+.Look-id{
+    background: linear-gradient(135deg ,#f50 69.93%,#d6bb00);
+    border-radius: 5rem;
+    transition: transform 0.2s;
+}
+.Look-text{
+    display: flex;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    margin: 0 2rem;
+    
+}
+.Watch-add{
+    background-color: rgb(35, 35, 35);
+    border-radius: 5.2rem;
+    margin: 0 1rem;
+    transition: transform 0.2s;
+
+}
+.ims{
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    color: white;
+    }
