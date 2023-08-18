@@ -6,6 +6,6 @@ Thanks to this practice, I was able to better understand the structuring of Reac
 
 This helped me improve my web development skills using React.
 
-In the future, based on the experience gained, I plan to create more complex and optimized applications with even more complex business logic.
+In the future, based on the experience gained, I plan to create more complex and optimized applications with even more complex logic.
 
 Thank you for your help in improving the description! It is very useful to refine it taking into account feedback.
