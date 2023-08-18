@@ -4,7 +4,7 @@ The main goal was not so much to get a finished product, but to study React in a
 
 Thanks to this practice, I was able to better understand the structuring of React code, the interaction of components, and the organization of the application state.
 
-This helped me improve my web development skills using React and modern javascript frameworks.
+This helped me improve my web development skills using React.
 
 In the future, based on the experience gained, I plan to create more complex and optimized applications with even more complex business logic.
 
